@@ -1,0 +1,5 @@
+{
+  "name": "ViralCaptions AI",
+  "description": "Auto-generate viral-style captions for your short videos using Gemini AI. Upload, style, and export instantly.",
+  "requestFramePermissions": []
+}
